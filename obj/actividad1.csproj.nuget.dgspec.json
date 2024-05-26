@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\languaje\\actividad1\\actividad1.csproj": {}
+    "C:\\Users\\jaosk\\Documents\\progra#5\\actividad1\\actividad1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\languaje\\actividad1\\actividad1.csproj": {
+    "C:\\Users\\jaosk\\Documents\\progra#5\\actividad1\\actividad1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\languaje\\actividad1\\actividad1.csproj",
+        "projectUniqueName": "C:\\Users\\jaosk\\Documents\\progra#5\\actividad1\\actividad1.csproj",
         "projectName": "actividad1",
-        "projectPath": "C:\\Users\\User\\Documents\\languaje\\actividad1\\actividad1.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\languaje\\actividad1\\obj\\",
+        "projectPath": "C:\\Users\\jaosk\\Documents\\progra#5\\actividad1\\actividad1.csproj",
+        "packagesPath": "C:\\Users\\jaosk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaosk\\Documents\\progra#5\\actividad1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jaosk\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

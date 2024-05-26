@@ -12,3 +12,4 @@ C:\Users\jaosk\Documents\progra#5\actividad1\obj\Debug\net8.0\refint\actividad1.
 C:\Users\jaosk\Documents\progra#5\actividad1\obj\Debug\net8.0\actividad1.pdb
 C:\Users\jaosk\Documents\progra#5\actividad1\obj\Debug\net8.0\actividad1.genruntimeconfig.cache
 C:\Users\jaosk\Documents\progra#5\actividad1\obj\Debug\net8.0\ref\actividad1.dll
+C:\Users\jaosk\Documents\progra#5\actividad1\obj\Debug\net8.0\actividad1.sourcelink.json
